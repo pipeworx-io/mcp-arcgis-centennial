@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-centennial",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "City of Centennial GIS — Centennial, Colorado open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-fa29b7ae36f0d7b742096eea74ec3b7ffa2180a7675a0ca0cc5c3b8c77f9a2bb",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-8efff3eb0d3574e863c6922c474f116c4070e24e721c903dca97baeb15dc4b9e",
+    "sourceCommit": "dca20ba6e13a9aa1c9f2918fc2ddaffe4cc30e5c"
   }
 }
